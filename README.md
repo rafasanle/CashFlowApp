@@ -1,1 +1,4 @@
 # CashFlowApp
+**Descripción del Proyecto:**
+
+La aplicación es una solución móvil diseñada para la gestión de flujos de dinero en efectivo en diversas sucursales de una empresa. Permite a los empleados de cada local registrar ingresos y gastos de efectivo de manera diaria, asignando un estatus a cada transacción que puede ser aprobado por encargados o administradores. Además, ofrece la posibilidad de visualizar el saldo disponible en cada sucursal y controlar los fondos entregados a los encargados. El acceso a la información está restringido por sucursal, de modo que los encargados generales o administración pueden consultar los datos de todas las sucursales, mientras que cada local solo puede ver su propia información. El sistema está diseñado para integrarse con el futuro módulo de cierre de caja de Odoo, garantizando un seguimiento y control eficiente del dinero dentro de la empresa.
